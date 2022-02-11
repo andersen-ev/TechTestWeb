@@ -12,6 +12,8 @@ Build a Single Page Application using [Spotify Web API](https://developer.spotif
 
 You may use whatever technical stack suits you best, please give reasoning where appropriate for your choice in the `README`
 
+_N.B._ This is a functional test, design is not important.
+
 ### Requirements
 
 - [ ] A user should be able to view a grid of their recently played tracks.
@@ -32,4 +34,4 @@ Please send us the link to a github repository (Bitbucket etc. are acceptable to
 
 We understand that time can be difficult to find whilst applying to jobs so feel free to include in your `README` an explanation of any compromises you made (e.g. tested partially due to time). 
 
-N.B. We value _Quality over Quantity_
+N.B. We value _Quality over Quantity_.
