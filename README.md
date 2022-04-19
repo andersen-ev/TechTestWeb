@@ -30,7 +30,9 @@ _N.B._ This is a functional test, design is not important.
 
 ## Submission
 
-Please send us the link to a github repository (Bitbucket etc. are acceptable too) with your completed submission. This must include a `README` explaining how to run your submission and any other infromation you think is relevant, such as how you would expand the application.
+Please send us the link to a github repository (Bitbucket etc. are acceptable too) with your completed submission. This must include a `README` explaining how to run your submission and any other infromation you think is relevant, such as how you would expand the application. 
+
+If you want to keep your submission repository secret then please invite [Mark](https://github.com/MarkHardwick-Dev) & [Tom](https://github.com/magerags)
 
 We understand that time can be difficult to find whilst applying to jobs so feel free to include in your `README` an explanation of any compromises you made (e.g. tested partially due to time). 
 
